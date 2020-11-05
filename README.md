@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have worked in tech for 10 years, and as a front end for 6 years! and I'm currently looking for my next position. 
+I have worked in tech for 10 years, and as a front end for 6 years! and I'm currently a front-end at Blockchains. 
 
 - 🔭 In the meantime I’m currently working on my own project, Garnister, as a full stack dev, project manager, etc, using technologies like GraphQL, Node, MongoDB, React, Typescript.
 - 🌱 I’m working on improving my TS and Python knowledge.
