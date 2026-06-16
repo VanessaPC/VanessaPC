@@ -4,11 +4,11 @@ I have worked in tech for 10 years, and as a front end for 6 years! and I'm curr
 
 - 📫 How to reach me: Use my email shown below!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaPC&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaPC&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)   
+![GitHub Streak](https://streak-stats.demolab.com/?user=VanessaPC&theme=dark)   
 
 <!--
 **VanessaPC/VanessaPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
