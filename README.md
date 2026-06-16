@@ -4,6 +4,10 @@ I have worked in tech for 10 years, and as a front end for 6 years! and I'm curr
 
 - 📫 How to reach me: Use my email shown below!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+
 <!--
 **VanessaPC/VanessaPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
